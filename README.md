@@ -84,6 +84,7 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 - [WAI - Web Acessibility Initiative](https://www.w3.org/WAI/)
 - [WCAG 2](https://www.w3.org/WAI/WCAG21/quickref/) 
 - [Figma](https://www.figma.com/file/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0%3A1) 
+<<<<<<< HEAD
 - [Demo](https://micheleambrosio.github.io/semana-frontend-mundo-invertido/) 
 ## 🌎 Nossas redes sociais
 <p>
@@ -105,3 +106,6 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
     <a href="https://www.linkedin.com/in/renanjpaula/">LinkedIn</a>
     </p>
 </p>
+=======
+- [Demo](https://micheleambrosio.github.io/semana-frontend-mundo-invertido/) 
+>>>>>>> d1d1246 ( Projeto Finalizado)
